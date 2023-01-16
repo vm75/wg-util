@@ -21,7 +21,7 @@ Usage: wg-util <genkey|genpsk|pubkey>
 $ wg-util genkey | tee abc.key | wg-util pubkey > abc.pub
 ```
 
-## Installing
+<!-- ## Installing
 
 Download the [latest binary release](https://github.com/vm75/wg-util/releases/latest) for your system,
-or build from source `go install github.com/vm75/wg-util@latest`.
+or build from source `go install github.com/vm75/wg-util@latest`. -->
